@@ -7,11 +7,3 @@ terraform {
     }
   }
 }
-
-# Initialises the provider with the required credentials
-provider "panos" {
-  hostname           = var.PANOS_HOSTNAME
-  username           = var.PANOS_USERNAME
-  password           = var.PANOS_PASSWORD
-  verify_certificate = var.VERIFY_CERTIFICATE
-}
