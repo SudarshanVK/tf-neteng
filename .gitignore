@@ -3,3 +3,9 @@
 */.terraform
 */.terraform.lock.hcl
 */terraform.tfstate
+*/terrafrom.tfstate.backup
+*/.terraformrc
+*/.terraform.d
+*/.terraform-version
+*/.terraform-modules
+*/plan
