@@ -1,4 +1,4 @@
-*/.env
+*/.env-actual
 */.DS_*
 */.terraform
 */.terraform.lock.hcl
@@ -9,3 +9,4 @@
 */.terraform-version
 */.terraform-modules
 */plan
+*.term
